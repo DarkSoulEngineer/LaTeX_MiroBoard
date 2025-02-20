@@ -1,6 +1,8 @@
 # LaTeX Integration for Miro Board  
 **Seamlessly Convert LaTeX to Rendered Math Formulas with OpenAI**
 
+![Miro](https://github.com/user-attachments/assets/aaf9f829-5b7b-4c03-9c17-eaf89acaf9d6)
+
 
 ### Table of Contents
 - [Overview](#overview)
