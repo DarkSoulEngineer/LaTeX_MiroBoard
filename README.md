@@ -17,12 +17,12 @@
 
 ## Description
 
-This Miro app auto-detects LaTeX syntax in text boxes on your Miro board and converts it into rendered math formulas using OpenAI. The formulas are displayed as high-quality PNG images in a dedicated mini-app panel on the left side of your board. It is intended for educators, engineers, and researchers collaborating on technical content. The app is built with Next.js, React, and the Miro SDK.
+This Miro app auto-detects LaTeX syntax in text boxes on your Miro board and converts it into rendered math formulas using OpenAI. The formulas are displayed as PNG images in a dedicated mini-app panel on the left side of your board. It is intended for educators, engineers, and researchers collaborating on technical content. The app is built with Next.js, React, and the Miro SDK.
 
 ### Features
 
 - **Auto-Detect LaTeX**: Recognizes LaTeX syntax (e.g., `$\frac{x}{y}$`) in Miro text boxes.
-- **OpenAI-Powered Conversion**: Leverages OpenAI's API to generate accurate LaTeX formula images.
+- **OpenAI-Powered Conversion**: Uses the OpenAI API to generate LaTeX formula images.
 - **Mini-App Preview Panel**: View and manage rendered formulas in a left-side panel.
 - **Real-Time Updates**: Formulas re-render automatically when LaTeX code is modified.
 - **Editable Formulas**: Click any image in the panel to edit the original LaTeX.
@@ -83,4 +83,4 @@ This Miro app auto-detects LaTeX syntax in text boxes on your Miro board and con
 
 ## License
 
-Apache-2.0 — see [LICENSE](LICENSE).
+Apache-2.0. See [LICENSE](LICENSE).
